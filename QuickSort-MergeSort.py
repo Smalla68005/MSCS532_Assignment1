@@ -4,6 +4,9 @@ import sys
 import psutil
 import os
 sys.setrecursionlimit(10**6)
+"""
+Merge and Quick Sort Implementation with Test
+"""
 
 # Quick Sort Implementation
 def quick_sort(arr):
